@@ -1,5 +1,8 @@
 ## 👋 Olá, eu sou o Felipe Duarte
 
+![Status](https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge)
+
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
